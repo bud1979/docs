@@ -1,4 +1,4 @@
-Graylog Test Documentation for Schema
+Nick Test Documentation for Schema
 =====================================
 
 Header to see
