@@ -9,14 +9,14 @@ Here is some text explaining some complicated sutff.::
     print 'hello'
     >> hello
 
-Guide
-^^^^^
 
 .. toctree::
    :maxdepth: 2
+   :glob:
    :caption: Contents:
-   
-   Schema
+   :hidden: 
+
+   schema/*
    Help
 
 
